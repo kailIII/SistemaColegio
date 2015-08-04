@@ -1,0 +1,691 @@
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Caja.exe.config
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\agregar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\check_48.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\eliminar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\email.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\imprimir.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\kedit.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\korganizer.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\ksirc.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\moneda.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\pagar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\stock_print-preview.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\ver1.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Imagenes\ver2.gif
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\Liquidacion.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Caja.exe
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Caja.pdb
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Caja.xml
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Caja.exe
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Caja.xml
+D:\Colegio 2013-05-22\Colegio\Caja\obj\Debug\Caja.pdb
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\agregar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\check_48.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\eliminar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\email.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\imprimir.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\kedit.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\korganizer.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\ksirc.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\moneda.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\pagar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\stock_print-preview.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\ver1.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Imagenes\ver2.gif
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\Liquidacion.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Caja.exe.config
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Caja.exe
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Caja.pdb
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Caja.xml
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Caja.exe
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Caja.xml
+D:\Colegio 2013-05-24\Colegio\Caja\obj\Debug\Caja.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\agregar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\check_48.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\eliminar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\email.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\imprimir.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\kedit.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\korganizer.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\ksirc.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\moneda.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\pagar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\stock_print-preview.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\ver1.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Imagenes\ver2.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\Liquidacion.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Caja.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Caja.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Caja.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Caja.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Caja.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Caja.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Caja\obj\Debug\Caja.pdb
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\agregar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\check_48.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\eliminar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\email.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\imprimir.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\kedit.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\korganizer.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\ksirc.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\moneda.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\pagar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\stock_print-preview.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\ver1.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Imagenes\ver2.gif
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\Liquidacion.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Caja.exe.config
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Caja.exe
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Caja.pdb
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Caja.xml
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Caja.exe
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Caja.xml
+D:\Colegio 2013-05-30\Colegio\Caja\obj\Debug\Caja.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\agregar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\check_48.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\eliminar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\email.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\imprimir.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\kcmfontinst.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\kedit.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\korganizer.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\ksirc.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\moneda.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\pagar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\stock_print-preview.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\ver1.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\ver2.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ConsolidadoPagos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\Liquidacion.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ResumenPagos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ResumenBeneficios.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.pdb
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.exe
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.xml
+K:\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\agregar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\check_48.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\eliminar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\email.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\imprimir.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\kcmfontinst.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\kedit.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\korganizer.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\ksirc.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\moneda.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\pagar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\stock_print-preview.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\ver1.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Imagenes\ver2.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ConsolidadoPagos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\Liquidacion.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ResumenPagos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas\ResumenBeneficios.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Caja.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\log4net.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosPendientesPago.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoPagosBanco.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosMatriculados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoAlumnosBeneficiados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsociarPago.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionarPersonas.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCronogramaPago.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmReasignarObligacion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmReportePagosServicio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmConsolidadoPagos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarCanje.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBeneficioResumenCantidad.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficioAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionBeneficio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarCodigoRecaudacion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmAsignarObligaciones.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmCartaDeudores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmExportarData.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmImportarData.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmInformacionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoDeudores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarClave.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarDocumento.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmModificarObligacion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmMostrarEstadoCuenta.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPagoInstitucional.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPersona.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmMantenimientoDocumentos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarPersona.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmBuscarServicio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionCuentaContable.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmEstadoCuenta.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionProgramacionPago.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmGestionServicios.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmLiquidacionDia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmListadoObligaciones.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmRegistrarPago.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmResumenPagosColegio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.frmVisor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Colegio.Caja.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Caja\obj\Debug\Caja.pdb

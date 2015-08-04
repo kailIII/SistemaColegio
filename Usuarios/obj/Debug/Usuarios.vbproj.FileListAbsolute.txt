@@ -1,0 +1,293 @@
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Usuarios.exe
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Usuarios.xml
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Usuarios\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Usuarios.exe
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Usuarios.xml
+D:\Colegio 2013-05-22\Colegio\Usuarios\obj\Debug\Usuarios.pdb
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Usuarios.exe
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Usuarios.xml
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Usuarios\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Usuarios.exe
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Usuarios.xml
+D:\Colegio 2013-05-24\Colegio\Usuarios\obj\Debug\Usuarios.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Usuarios.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Usuarios.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Usuarios.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Usuarios.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Usuarios\obj\Debug\Usuarios.pdb
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Usuarios.exe
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Usuarios.xml
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Usuarios\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Usuarios.exe
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Usuarios.xml
+D:\Colegio 2013-05-30\Colegio\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.pdb
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.exe
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.xml
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.exe
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.xml
+K:\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Usuarios.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.BuscaPersona.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.buscaUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmAsignaGrupoAUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscaPersona.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmBuscarUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionGruposUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmOpcion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoGrupal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmPermisoIndividuales.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionSistemas.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Colegio.IUsuario.frmGestionUsuarios.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Usuarios\obj\Debug\Usuarios.pdb

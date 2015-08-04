@@ -1,0 +1,487 @@
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+D:\Colegio 2013-05-22\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+D:\Colegio 2013-05-24\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+D:\Colegio 2013-05-30\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+F:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+F:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+F:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+F:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotasExportar.xlsx
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotasExportar.xlsx
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+K:\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\PlanLector.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Alumnos-PlanLector-Promedio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\ConsolidadoSeccion.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotasExportar.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Primaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroNotas.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Libreta_Plan _Lector_Secundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\RegistroAsignaciones.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Registro_PlanLector.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas\Todos Alumnos-PlanLector-Promedio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\PlanLector.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsable.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorResponsableAnt.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLecturaAnt.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmConsolidadoNotasPLSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmRecuperacionNota.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosNoProgramados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteAlumnosPlanLectorPromedio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmAsignacionLibroGrado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmExportarPlanLector.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionAutor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarAutor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmBuscarLibro.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmCuentasUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionNotasPlanLectorSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionPresentacion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionLibro.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmImportarPlanLector.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmGestionProgLectura.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.frmReporteNotasPlanLector.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\Colegio.IPlanLector.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Plan_Lector\obj\Debug\ResGen.write.1.tlog

@@ -1,0 +1,258 @@
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Informes.exe
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Informes.pdb
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Informes.xml
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Informes\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.exe
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.xml
+D:\Colegio 2013-05-22\Colegio\Informes\obj\Debug\Informes.pdb
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Informes.exe
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Informes.pdb
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Informes.xml
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Informes\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.exe
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.xml
+D:\Colegio 2013-05-24\Colegio\Informes\obj\Debug\Informes.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Informes.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Informes.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Informes.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Informes\obj\Debug\Informes.pdb
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Informes.exe
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Informes.pdb
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Informes.xml
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Informes\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.exe
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.xml
+D:\Colegio 2013-05-30\Colegio\Informes\obj\Debug\Informes.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.pdb
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.exe
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.pdb
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.xml
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.exe
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.xml
+K:\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Informes.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmBuscarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmInformacionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Informes\obj\Debug\Informes.pdb

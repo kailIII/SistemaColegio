@@ -1,0 +1,375 @@
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Tutor.exe.config
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Tutor.exe
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Tutor.pdb
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Tutor.xml
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Tutor.exe
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Tutor.xml
+D:\Colegio 2013-05-22\Colegio\Tutor\obj\Debug\Tutor.pdb
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Tutor.exe.config
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Tutor.exe
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Tutor.pdb
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Tutor.xml
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Tutor.exe
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Tutor.xml
+D:\Colegio 2013-05-24\Colegio\Tutor\obj\Debug\Tutor.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Tutor.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Tutor.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Tutor.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Tutor.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Tutor.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Tutor.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Tutor\obj\Debug\Tutor.pdb
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Tutor.exe.config
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Tutor.exe
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Tutor.pdb
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Tutor.xml
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Tutor.exe
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Tutor.xml
+D:\Colegio 2013-05-30\Colegio\Tutor\obj\Debug\Tutor.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.pdb
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.exe.config
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.exe
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.pdb
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.exe
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.xml
+K:\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\Plantilla-Matricula.xltx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas\Registro_PlanLector.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Tutor.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmAlumnosSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmBuscarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmComportamiento.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmCuentasUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionAsistencia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionNotasPlanLector.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmGestionProgLectura.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmExportarPlanLector.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmImportarPlanLector.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmInformacionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Colegio.ITutor.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Tutor\obj\Debug\Tutor.pdb

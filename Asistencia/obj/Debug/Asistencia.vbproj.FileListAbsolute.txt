@@ -1,0 +1,315 @@
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Asistencia.exe
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Asistencia.xml
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Asistencia.exe
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Asistencia.xml
+D:\Colegio 2013-05-22\Colegio\Asistencia\obj\Debug\Asistencia.pdb
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Asistencia.exe
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Asistencia.xml
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Asistencia.exe
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Asistencia.xml
+D:\Colegio 2013-05-24\Colegio\Asistencia\obj\Debug\Asistencia.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Asistencia.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Asistencia.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Asistencia.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Asistencia.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Asistencia.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmListadoAsistencia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Asistencia\bin\Debug\Plantillas\Listado de asistencia.xls
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Plantillas\Listado de asistencia.xls
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Asistencia.exe
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Asistencia.xml
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmListadoAsistencia.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Asistencia.exe
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Asistencia.xml
+D:\Colegio 2013-05-30\Colegio\Asistencia\obj\Debug\Asistencia.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas\Listado de asistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmListadoAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.pdb
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas\Listado de asistencia.xls
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.exe
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmListadoAsistencia.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.exe
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.xml
+K:\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas\Listado de asistencia.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Asistencia.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmListadoAsistencia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmModificarClave.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmGestionAsistencia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.frmReporteAsistenciaMensual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Colegio.IAsistencia.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Asistencia\obj\Debug\Asistencia.pdb

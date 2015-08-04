@@ -1,0 +1,375 @@
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Docente.exe.config
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Docente.exe
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Docente.pdb
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Docente.xml
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Docente.exe
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Docente.xml
+D:\Colegio 2013-05-22\Colegio\Docente\obj\Debug\Docente.pdb
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Docente.exe.config
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Docente.exe
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Docente.pdb
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Docente.xml
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Docente.exe
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Docente.xml
+D:\Colegio 2013-05-24\Colegio\Docente\obj\Debug\Docente.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Docente.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Docente.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Docente.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Docente.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Docente.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Docente.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Docente\obj\Debug\Docente.pdb
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Docente.exe.config
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Docente.exe
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Docente.pdb
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Docente.xml
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Docente.exe
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Docente.xml
+D:\Colegio 2013-05-30\Colegio\Docente\obj\Debug\Docente.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.pdb
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.exe.config
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.exe
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.pdb
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.xml
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\Docente\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.exe
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.xml
+K:\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliar.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\RegistroAuxiliarSecundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas\Registro_Secundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Docente.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmCuentasUsuario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmExportarRegistroSec.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmGestionUnidades.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegInd.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmImportarRegistroSec.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmNotasSecundaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxiliar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroAuxSec.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.frmRegistroNotasIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Colegio.IDocente.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Docente\obj\Debug\Docente.pdb

@@ -1,0 +1,460 @@
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+D:\Colegio 2013-05-22\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\DirectorNivel.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\DirectorNivel.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-24\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\DirectorNivel\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\DirectorNivel\obj\Debug\ResGen.write.1.tlog
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+K:\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\refresh.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\bajar.PNG
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\subir.PNG
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Avance registro de notas Primaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Listado de asistencia.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Resumen de asistencia.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas\Promedios de area por seccion.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\DirectorNivel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmEvolucionComportamiento.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesPrimaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioCursoPeriodo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoAnioAreaPeriodo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmConsolidadoPeriodoAreaCapacidad.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmImportarPromediosArea.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosCursoSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteAsistencia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmGestionIndicadoresGrupal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmNotasSecundaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmPromediosAreaSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmRegistroNotasIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmReporteIngresoCalificacionesSecundaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.frmListadoAsistencia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\Colegio.IDirectorNivel.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\DirectorNivel\obj\Debug\DirectorNivel.pdb

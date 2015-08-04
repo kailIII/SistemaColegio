@@ -1,0 +1,1065 @@
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Academico.exe.config
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Academico.exe
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Academico.pdb
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Academico.xml
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Academico.exe
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Academico.xml
+D:\Colegio 2013-05-22\Colegio\Academico\obj\Debug\Academico.pdb
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Academico.exe.config
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Academico.exe
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Academico.pdb
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Academico.xml
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Academico.exe
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Academico.xml
+D:\Colegio 2013-05-24\Colegio\Academico\obj\Debug\Academico.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Academico.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Academico.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Academico.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Academico.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Academico.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Academico.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Academico\obj\Debug\Academico.pdb
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Academico.exe.config
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Academico.exe
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Academico.pdb
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Academico.xml
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Academico.exe
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Academico.xml
+D:\Colegio 2013-05-30\Colegio\Academico\obj\Debug\Academico.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.pdb
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe.config
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.pdb
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.xml
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\Academico\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.exe
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.xml
+K:\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ActaNotas.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Primaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Inicial.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoAsistencia.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ListadoMadres.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Primaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Libreta_Secundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Plantilla-Matricula.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Ponderados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\RegistroAuxiliar.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\RegistroComportamiento.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Reporte01.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\reuniones.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas\reuniones2.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarApoderado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.BuscarPersonas.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.ControlUbicacionGeografica.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPeriodos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarPersona.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPromedioLiteralPeriodo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionarPersonas.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnosDNI.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAlumnos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaAnt.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioAreaPeriodo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoAnioCursoPeriodo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoPeriodoAreaCapacidad.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoAsistencia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMenor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmActaNotas.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAlumnosSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmInformacionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoMadresHijoMayor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListadoReportes.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificaciones.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesPrimaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteIngresoCalificacionesSecundaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones02.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAperturaAnio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionApoderado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAreasDRE.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmAsignacionLibroGrado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAlumno_new.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarApoderadoNew.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarAutor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarDocente.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmBuscarLibro.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCapacidad.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademica.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCargaAcademicaTraslado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmCerrarPeriodo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmComportamiento.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoSec.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCoordinadorArea.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionCurso.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDocente.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionDRE.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmEquivNotasComp.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGenerarNumerosOrden.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAmbientes.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatricula.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionMatriculaBuscar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionAutor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionGrados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionHorarios.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLibro.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionLocales.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmgestionOcupacion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionPresentacion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProfesion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionProgLectura.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionSecciones.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionUbicacionGeografica.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmImportarSecciones.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmConsolidadoIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretaIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmLibretasSecundaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmListarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionNiveles.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMatriculaAutomatica.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmMostrarHorario.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNominaMatriculados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmNotasSecundaria.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPonderado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmRegistroNotasIndicadores.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporte01.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteAsistenciaMensual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmReporteReuniones01.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenNotasArea.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmResumenTriAsig.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTraslado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmTrasladoAlumnos2.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmGestionTurno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.frmVirtudComportamiento.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Colegio.IAcademico.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.pdb
+D:\PROYECTOS\colegio(ing francklin)\Colegio 2013-05-31\Colegio\Academico\bin\Debug\Academico.exe.config
+D:\PROYECTOS\colegio(ing francklin)\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.exe
+D:\PROYECTOS\colegio(ing francklin)\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.xml
+D:\PROYECTOS\colegio(ing francklin)\Colegio 2013-05-31\Colegio\Academico\obj\Debug\Academico.pdb

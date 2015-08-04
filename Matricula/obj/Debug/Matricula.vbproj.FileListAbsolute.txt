@@ -1,0 +1,557 @@
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Matricula.exe.config
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Matricula.exe
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Matricula.pdb
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Matricula.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Academico.exe
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Academico.pdb
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Academico.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Matricula.exe
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Matricula.xml
+D:\Colegio 2013-05-22\Colegio\Matricula\obj\Debug\Matricula.pdb
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Matricula.exe.config
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Matricula.exe
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Matricula.pdb
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Matricula.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Academico.exe
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Academico.pdb
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Academico.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Matricula.exe
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Matricula.xml
+D:\Colegio 2013-05-24\Colegio\Matricula\obj\Debug\Matricula.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Matricula.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Matricula.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Matricula.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Matricula.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Academico.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Academico.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Academico.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Matricula.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Matricula.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Matricula\obj\Debug\Matricula.pdb
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Matricula.exe.config
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Matricula.exe
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Matricula.pdb
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Matricula.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Academico.exe
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Academico.pdb
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Academico.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Matricula.exe
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Matricula.xml
+D:\Colegio 2013-05-30\Colegio\Matricula\obj\Debug\Matricula.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.pdb
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.exe.config
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.exe
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.pdb
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.exe
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.pdb
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.exe
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.xml
+K:\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ActaNotas.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Avance registro de notas.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_AreaPeriodo.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Anio_CursoPeriodo.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Periodo_AreaCapacidad.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Primaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Consolidado_Secundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioLiteralPeriodo.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Inicial.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAlumnosDNI.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoAsistencia.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ListadoMadres.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Primaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Secundaria.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Plantilla-Matricula.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Ponderados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\RegistroAuxiliar.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\RegistroComportamiento.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReportePromedioCapacidadesPeriodo.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Reporte01.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\ReporteAsistenciaMensual.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Resumen_Trimestral_Sec.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\reuniones.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\reuniones2.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\carnet.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\carnetAnt.xlsx
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas\Libreta_Indicador.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Matricula.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Academico.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGenerarCarnet.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionApoderado.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmGestionarMatricula.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmModificarApoderados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.frmBalancearSecciones.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Colegio.IMatricula.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Matricula\obj\Debug\Matricula.pdb

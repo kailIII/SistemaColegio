@@ -1,0 +1,1181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA15BE2F-FB93-40F8-85D0-BC487C746070}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>Colegio.IAcademico</RootNamespace>
+    <AssemblyName>Academico</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Academico.xml</DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Academico.xml</DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Colegio.Entidades" />
+    <Import Include="Colegio.Reglas" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BuscarAlumno.designer.vb">
+      <DependentUpon>BuscarAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarAlumno.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuscarApoderado.designer.vb">
+      <DependentUpon>BuscarApoderado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarApoderado.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuscarPersonas.designer.vb">
+      <DependentUpon>BuscarPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPersonas.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlUbicacionGeografica.designer.vb">
+      <DependentUpon>ControlUbicacionGeografica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ControlUbicacionGeografica.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmGestionarPeriodos.designer.vb">
+      <DependentUpon>frmGestionarPeriodos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionarPeriodos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarPersona.Designer.vb">
+      <DependentUpon>frmBuscarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidadoPromedioLiteralPeriodo.Designer.vb">
+      <DependentUpon>frmConsolidadoPromedioLiteralPeriodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidadoPromedioLiteralPeriodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionarPersonas.Designer.vb">
+      <DependentUpon>frmGestionarPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionarPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoAlumnosDNI.Designer.vb">
+      <DependentUpon>frmListadoAlumnosDNI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoAlumnosDNI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoAlumnos.Designer.vb">
+      <DependentUpon>frmListadoAlumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoAlumnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargaAcademicaAnt.Designer.vb">
+      <DependentUpon>frmCargaAcademicaAnt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargaAcademicaAnt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidadoAnioAreaPeriodo.Designer.vb">
+      <DependentUpon>frmConsolidadoAnioAreaPeriodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidadoAnioAreaPeriodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidadoAnioCursoPeriodo.Designer.vb">
+      <DependentUpon>frmConsolidadoAnioCursoPeriodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidadoAnioCursoPeriodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidadoPeriodoAreaCapacidad.Designer.vb">
+      <DependentUpon>frmConsolidadoPeriodoAreaCapacidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidadoPeriodoAreaCapacidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoAsistencia.Designer.vb">
+      <DependentUpon>frmListadoAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoMadresHijoMenor.Designer.vb">
+      <DependentUpon>frmListadoMadresHijoMenor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoMadresHijoMenor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActaNotas.designer.vb">
+      <DependentUpon>frmActaNotas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmActaNotas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlumnosSeccion.Designer.vb">
+      <DependentUpon>frmAlumnosSeccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlumnosSeccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInformacionAlumno.Designer.vb">
+      <DependentUpon>frmInformacionAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInformacionAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoMadresHijoMayor.Designer.vb">
+      <DependentUpon>frmListadoMadresHijoMayor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoMadresHijoMayor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoReportes.Designer.vb">
+      <DependentUpon>frmListadoReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteIngresoCalificaciones.Designer.vb">
+      <DependentUpon>frmReporteIngresoCalificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteIngresoCalificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteIngresoCalificacionesPrimaria.Designer.vb">
+      <DependentUpon>frmReporteIngresoCalificacionesPrimaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteIngresoCalificacionesPrimaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteIngresoCalificacionesSecundaria.Designer.vb">
+      <DependentUpon>frmReporteIngresoCalificacionesSecundaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteIngresoCalificacionesSecundaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteReuniones02.Designer.vb">
+      <DependentUpon>frmReporteReuniones02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteReuniones02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionAlumno.designer.vb">
+      <DependentUpon>frmGestionAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAperturaAnio.designer.vb">
+      <DependentUpon>frmAperturaAnio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAperturaAnio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionApoderado.designer.vb">
+      <DependentUpon>frmGestionApoderado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionApoderado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionAreasDRE.Designer.vb">
+      <DependentUpon>frmGestionAreasDRE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionAreasDRE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignacionLibroGrado.designer.vb">
+      <DependentUpon>frmAsignacionLibroGrado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignacionLibroGrado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarAlumno.designer.vb">
+      <DependentUpon>frmBuscarAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarAlumno_new.designer.vb">
+      <DependentUpon>frmBuscarAlumno_new.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarAlumno_new.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarApoderadoNew.designer.vb">
+      <DependentUpon>frmBuscarApoderadoNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarApoderadoNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarAutor.designer.vb">
+      <DependentUpon>frmBuscarAutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarAutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarDocente.Designer.vb">
+      <DependentUpon>frmBuscarDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarLibro.designer.vb">
+      <DependentUpon>frmBuscarLibro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarLibro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionCapacidad.Designer.vb">
+      <DependentUpon>frmGestionCapacidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionCapacidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargaAcademica.Designer.vb">
+      <DependentUpon>frmCargaAcademica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargaAcademica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargaAcademicaTraslado.designer.vb">
+      <DependentUpon>frmCargaAcademicaTraslado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargaAcademicaTraslado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCerrarPeriodo.Designer.vb">
+      <DependentUpon>frmCerrarPeriodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCerrarPeriodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComportamiento.designer.vb">
+      <DependentUpon>frmComportamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmComportamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidadoSec.Designer.vb">
+      <DependentUpon>frmConsolidadoSec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidadoSec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionCoordinadorArea.Designer.vb">
+      <DependentUpon>frmGestionCoordinadorArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionCoordinadorArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionCurso.designer.vb">
+      <DependentUpon>frmGestionCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionDocente.designer.vb">
+      <DependentUpon>frmGestionDocente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionDocente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionDRE.Designer.vb">
+      <DependentUpon>frmGestionDRE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionDRE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquivNotasComp.Designer.vb">
+      <DependentUpon>frmEquivNotasComp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquivNotasComp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenerarNumerosOrden.designer.vb">
+      <DependentUpon>frmGenerarNumerosOrden.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenerarNumerosOrden.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionAmbientes.Designer.vb">
+      <DependentUpon>frmGestionAmbientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionAmbientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionMatricula.designer.vb">
+      <DependentUpon>frmGestionMatricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionMatricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionAutor.designer.vb">
+      <DependentUpon>frmGestionAutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionAutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionGrados.Designer.vb">
+      <DependentUpon>frmGestionGrados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionGrados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionHorarios.designer.vb">
+      <DependentUpon>frmGestionHorarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionHorarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionLibro.designer.vb">
+      <DependentUpon>frmGestionLibro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionLibro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionLocales.Designer.vb">
+      <DependentUpon>frmGestionLocales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionLocales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionMatriculaBuscar.Designer.vb">
+      <DependentUpon>frmGestionMatriculaBuscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionMatriculaBuscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionOcupacion.Designer.vb">
+      <DependentUpon>frmGestionOcupacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionOcupacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionPresentacion.designer.vb">
+      <DependentUpon>frmGestionPresentacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionPresentacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionProfesion.Designer.vb">
+      <DependentUpon>frmGestionProfesion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionProfesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionProgLectura.designer.vb">
+      <DependentUpon>frmGestionProgLectura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionProgLectura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionSecciones.designer.vb">
+      <DependentUpon>frmGestionSecciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionSecciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionUbicacionGeografica.Designer.vb">
+      <DependentUpon>frmGestionUbicacionGeografica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionUbicacionGeografica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIdentificar.Designer.vb">
+      <DependentUpon>frmIdentificar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIdentificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportarSecciones.designer.vb">
+      <DependentUpon>frmImportarSecciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportarSecciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidadoIndicadores.Designer.vb">
+      <DependentUpon>frmConsolidadoIndicadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidadoIndicadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLibretaIndicadores.Designer.vb">
+      <DependentUpon>frmLibretaIndicadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLibretaIndicadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLibretasSecundaria.Designer.vb">
+      <DependentUpon>frmLibretasSecundaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLibretasSecundaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListarAlumno.designer.vb">
+      <DependentUpon>frmListarAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListarAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionNiveles.Designer.vb">
+      <DependentUpon>frmGestionNiveles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionNiveles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMatriculaAutomatica.Designer.vb">
+      <DependentUpon>frmMatriculaAutomatica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMatriculaAutomatica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarHorario.Designer.vb">
+      <DependentUpon>frmMostrarHorario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarHorario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNominaMatriculados.designer.vb">
+      <DependentUpon>frmNominaMatriculados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNominaMatriculados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotasSecundaria.designer.vb">
+      <DependentUpon>frmNotasSecundaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotasSecundaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeriodoActual.Designer.vb">
+      <DependentUpon>frmPeriodoActual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeriodoActual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPonderado.Designer.vb">
+      <DependentUpon>frmPonderado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPonderado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroNotasIndicadores.designer.vb">
+      <DependentUpon>frmRegistroNotasIndicadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroNotasIndicadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporte01.Designer.vb">
+      <DependentUpon>frmReporte01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporte01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteAsistenciaMensual.Designer.vb">
+      <DependentUpon>frmReporteAsistenciaMensual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteAsistenciaMensual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteReuniones01.Designer.vb">
+      <DependentUpon>frmReporteReuniones01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteReuniones01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResumenNotasArea.Designer.vb">
+      <DependentUpon>frmResumenNotasArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmResumenNotasArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResumenTriAsig.Designer.vb">
+      <DependentUpon>frmResumenTriAsig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmResumenTriAsig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTraslado.designer.vb">
+      <DependentUpon>frmTraslado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTraslado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrasladoAlumnos.Designer.vb">
+      <DependentUpon>frmTrasladoAlumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrasladoAlumnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrasladoAlumnos2.Designer.vb">
+      <DependentUpon>frmTrasladoAlumnos2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrasladoAlumnos2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionTurno.Designer.vb">
+      <DependentUpon>frmGestionTurno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionTurno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVirtudComportamiento.Designer.vb">
+      <DependentUpon>frmVirtudComportamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVirtudComportamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iReporte.vb" />
+    <Compile Include="modExcel.vb" />
+    <Compile Include="modListar.vb" />
+    <Compile Include="modPrincipal.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BuscarAlumno.resx">
+      <DependentUpon>BuscarAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarApoderado.resx">
+      <DependentUpon>BuscarApoderado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPersonas.resx">
+      <DependentUpon>BuscarPersonas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlUbicacionGeografica.resx">
+      <DependentUpon>ControlUbicacionGeografica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionarPeriodos.resx">
+      <DependentUpon>frmGestionarPeriodos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarPersona.resx">
+      <DependentUpon>frmBuscarPersona.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsolidadoPromedioLiteralPeriodo.resx">
+      <DependentUpon>frmConsolidadoPromedioLiteralPeriodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionarPersonas.resx">
+      <DependentUpon>frmGestionarPersonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoAlumnosDNI.resx">
+      <DependentUpon>frmListadoAlumnosDNI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoAlumnos.resx">
+      <DependentUpon>frmListadoAlumnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargaAcademicaAnt.resx">
+      <DependentUpon>frmCargaAcademicaAnt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsolidadoAnioAreaPeriodo.resx">
+      <DependentUpon>frmConsolidadoAnioAreaPeriodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsolidadoAnioCursoPeriodo.resx">
+      <DependentUpon>frmConsolidadoAnioCursoPeriodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsolidadoPeriodoAreaCapacidad.resx">
+      <DependentUpon>frmConsolidadoPeriodoAreaCapacidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoAsistencia.resx">
+      <DependentUpon>frmListadoAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoMadresHijoMenor.resx">
+      <DependentUpon>frmListadoMadresHijoMenor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActaNotas.resx">
+      <DependentUpon>frmActaNotas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlumnosSeccion.resx">
+      <DependentUpon>frmAlumnosSeccion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInformacionAlumno.resx">
+      <DependentUpon>frmInformacionAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoMadresHijoMayor.resx">
+      <DependentUpon>frmListadoMadresHijoMayor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoReportes.resx">
+      <DependentUpon>frmListadoReportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteIngresoCalificaciones.resx">
+      <DependentUpon>frmReporteIngresoCalificaciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteIngresoCalificacionesPrimaria.resx">
+      <DependentUpon>frmReporteIngresoCalificacionesPrimaria.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteIngresoCalificacionesSecundaria.resx">
+      <DependentUpon>frmReporteIngresoCalificacionesSecundaria.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteReuniones02.resx">
+      <DependentUpon>frmReporteReuniones02.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionAlumno.resx">
+      <DependentUpon>frmGestionAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAperturaAnio.resx">
+      <DependentUpon>frmAperturaAnio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionApoderado.resx">
+      <DependentUpon>frmGestionApoderado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionAreasDRE.resx">
+      <DependentUpon>frmGestionAreasDRE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignacionLibroGrado.resx">
+      <DependentUpon>frmAsignacionLibroGrado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarAlumno.resx">
+      <DependentUpon>frmBuscarAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarAlumno_new.resx">
+      <DependentUpon>frmBuscarAlumno_new.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarApoderadoNew.resx">
+      <DependentUpon>frmBuscarApoderadoNew.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarAutor.resx">
+      <DependentUpon>frmBuscarAutor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarDocente.resx">
+      <DependentUpon>frmBuscarDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarLibro.resx">
+      <DependentUpon>frmBuscarLibro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionCapacidad.resx">
+      <DependentUpon>frmGestionCapacidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargaAcademica.resx">
+      <DependentUpon>frmCargaAcademica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargaAcademicaTraslado.resx">
+      <DependentUpon>frmCargaAcademicaTraslado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCerrarPeriodo.resx">
+      <DependentUpon>frmCerrarPeriodo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComportamiento.resx">
+      <DependentUpon>frmComportamiento.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsolidadoSec.resx">
+      <DependentUpon>frmConsolidadoSec.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionCoordinadorArea.resx">
+      <DependentUpon>frmGestionCoordinadorArea.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionCurso.resx">
+      <DependentUpon>frmGestionCurso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionDocente.resx">
+      <DependentUpon>frmGestionDocente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionDRE.resx">
+      <DependentUpon>frmGestionDRE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquivNotasComp.resx">
+      <DependentUpon>frmEquivNotasComp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenerarNumerosOrden.resx">
+      <DependentUpon>frmGenerarNumerosOrden.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionAmbientes.resx">
+      <DependentUpon>frmGestionAmbientes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionMatricula.resx">
+      <DependentUpon>frmGestionMatricula.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionMatriculaBuscar.resx">
+      <DependentUpon>frmGestionMatriculaBuscar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionAutor.resx">
+      <DependentUpon>frmGestionAutor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionGrados.resx">
+      <DependentUpon>frmGestionGrados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionHorarios.resx">
+      <DependentUpon>frmGestionHorarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionLibro.resx">
+      <DependentUpon>frmGestionLibro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionLocales.resx">
+      <DependentUpon>frmGestionLocales.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionOcupacion.resx">
+      <DependentUpon>frmGestionOcupacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionPresentacion.resx">
+      <DependentUpon>frmGestionPresentacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionProfesion.resx">
+      <DependentUpon>frmGestionProfesion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionProgLectura.resx">
+      <DependentUpon>frmGestionProgLectura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionSecciones.resx">
+      <DependentUpon>frmGestionSecciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionUbicacionGeografica.resx">
+      <DependentUpon>frmGestionUbicacionGeografica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIdentificar.resx">
+      <DependentUpon>frmIdentificar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportarSecciones.resx">
+      <DependentUpon>frmImportarSecciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsolidadoIndicadores.resx">
+      <DependentUpon>frmConsolidadoIndicadores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLibretaIndicadores.resx">
+      <DependentUpon>frmLibretaIndicadores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLibretasSecundaria.resx">
+      <DependentUpon>frmLibretasSecundaria.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListarAlumno.resx">
+      <DependentUpon>frmListarAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionNiveles.resx">
+      <DependentUpon>frmGestionNiveles.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMatriculaAutomatica.resx">
+      <DependentUpon>frmMatriculaAutomatica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarHorario.resx">
+      <DependentUpon>frmMostrarHorario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNominaMatriculados.resx">
+      <DependentUpon>frmNominaMatriculados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotasSecundaria.resx">
+      <DependentUpon>frmNotasSecundaria.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeriodoActual.resx">
+      <DependentUpon>frmPeriodoActual.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPonderado.resx">
+      <DependentUpon>frmPonderado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroNotasIndicadores.resx">
+      <DependentUpon>frmRegistroNotasIndicadores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporte01.resx">
+      <DependentUpon>frmReporte01.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteAsistenciaMensual.resx">
+      <DependentUpon>frmReporteAsistenciaMensual.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteReuniones01.resx">
+      <DependentUpon>frmReporteReuniones01.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResumenNotasArea.resx">
+      <DependentUpon>frmResumenNotasArea.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResumenTriAsig.resx">
+      <DependentUpon>frmResumenTriAsig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTraslado.resx">
+      <DependentUpon>frmTraslado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrasladoAlumnos.resx">
+      <DependentUpon>frmTrasladoAlumnos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrasladoAlumnos2.resx">
+      <DependentUpon>frmTrasladoAlumnos2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionTurno.resx">
+      <DependentUpon>frmGestionTurno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVirtudComportamiento.resx">
+      <DependentUpon>frmVirtudComportamiento.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Plantillas\ActaNotas.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Avance registro de notas.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Consolidado_Anio_AreaPeriodo.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Consolidado_Anio_CursoPeriodo.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Consolidado_Periodo_AreaCapacidad.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Consolidado_Primaria.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Consolidado_Secundaria.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ReportePromedioLiteralPeriodo.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ListadoAlumnos.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Libreta_Inicial.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Libreta_Indicadores.xls">
+    </None>
+    <None Include="Plantillas\DatosContactoAlumnos.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\DatosContactoAlumnosAnio.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ListadoAlumnosDNI.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ListadoAsistencia.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ListadoMadres.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Libreta_Primaria.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Libreta_Secundaria.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Plantilla-Matricula.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Ponderados.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\RegistroAuxiliar.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\RegistroComportamiento.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ReportePromedioCapacidadesPeriodo.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Reporte01.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\ReporteAsistenciaMensual.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\Resumen_Trimestral_Sec.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\reuniones.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas\reuniones2.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.vbproj">
+      <Project>{325E0C52-BB48-47DB-8A58-98CC12EEBBB8}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Plantillas\Plantillas.vbproj">
+      <Project>{C0802A31-5306-48C6-927A-25E7C1738B74}</Project>
+      <Name>Plantillas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reglas\Reglas.vbproj">
+      <Project>{9A21296F-3A05-4FFA-8708-BAB59EE078DF}</Project>
+      <Name>Reglas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\aula.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Buscar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Cancelar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Cerrar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\docente.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Editar.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\error.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\excel.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\exito.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Guardar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\nuevo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\padres.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Salir.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Seleccionar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\user.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

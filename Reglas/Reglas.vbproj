@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9A21296F-3A05-4FFA-8708-BAB59EE078DF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Colegio.Reglas</RootNamespace>
+    <AssemblyName>Reglas</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Reglas.xml</DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Reglas.xml</DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Colegio.Entidades" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CADO.vb" />
+    <Compile Include="CParametro.vb" />
+    <Compile Include="RNBeneficio.vb" />
+    <Compile Include="RNCajaChica.vb" />
+    <Compile Include="RNCompra.vb" />
+    <Compile Include="RNConceptoCompra.vb" />
+    <Compile Include="RNConceptoOperacion.vb" />
+    <Compile Include="RNCuenta.vb" />
+    <Compile Include="RNCuentaBancaria.vb" />
+    <Compile Include="RNDetalleCompra.vb" />
+    <Compile Include="RNDetalleDctoIngreso.vb" />
+    <Compile Include="RNDocumentoIngreso.vb" />
+    <Compile Include="RNEntidadFinanciera.vb" />
+    <Compile Include="RNFechaPago.vb" />
+    <Compile Include="RNInvestigacion.vb" />
+    <Compile Include="RNLiquidacion.vb" />
+    <Compile Include="RNMatriculaPosible.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RNAdministrativos.vb" />
+    <Compile Include="RNAlumno.vb" />
+    <Compile Include="RNAnioLectivo.vb" />
+    <Compile Include="RNApoderado.vb" />
+    <Compile Include="RNAreaDRe.vb" />
+    <Compile Include="RNAsistencia.vb" />
+    <Compile Include="RNAula.vb" />
+    <Compile Include="RNCapacidad.vb" />
+    <Compile Include="RNCargaAcademica.vb" />
+    <Compile Include="RNCoordinadorAreaDre.vb" />
+    <Compile Include="RNCurso.vb" />
+    <Compile Include="RNDocente.vb" />
+    <Compile Include="RNDocenteCarga.vb" />
+    <Compile Include="RNDRE.vb" />
+    <Compile Include="RNEmpresaService.vb" />
+    <Compile Include="RNEquivalencia.vb" />
+    <Compile Include="RNEspecialidad.vb" />
+    <Compile Include="RNGrado.vb" />
+    <Compile Include="RNGrupo.vb" />
+    <Compile Include="RNGrupoUsuario.vb" />
+    <Compile Include="RNHorario.vb" />
+    <Compile Include="RNIndicador.vb" />
+    <Compile Include="RNInstitucion.vb" />
+    <Compile Include="RNLibro.vb" />
+    <Compile Include="RNLocal.vb" />
+    <Compile Include="RNMatricula.vb" />
+    <Compile Include="RNMatriculaIndicador.vb" />
+    <Compile Include="RNMovimientoHistorico.vb" />
+    <Compile Include="RNNivel.vb" />
+    <Compile Include="RNNotaCapacidad.vb" />
+    <Compile Include="RNNotaComportamiento.vb" />
+    <Compile Include="RNNotaInvestigacion.vb" />
+    <Compile Include="RNNotaLectura.vb" />
+    <Compile Include="RNObligacion.vb" />
+    <Compile Include="RNOcupacion.vb" />
+    <Compile Include="RNOpcion.vb" />
+    <Compile Include="RNParentesco.vb" />
+    <Compile Include="RNPeriodoAcademico.vb" />
+    <Compile Include="RNPermiso.vb" />
+    <Compile Include="RNPersona.vb" />
+    <Compile Include="RNPersonal.vb" />
+    <Compile Include="RNPresentacion.vb" />
+    <Compile Include="RNProfesion.vb" />
+    <Compile Include="RNProgramacionLectura.vb" />
+    <Compile Include="RNProgramacionPago.vb" />
+    <Compile Include="RNPromedioPeriodoCurso.vb" />
+    <Compile Include="RNRegimenPension.vb" />
+    <Compile Include="RNResponsableCajaChica.vb" />
+    <Compile Include="RNSeccion.vb" />
+    <Compile Include="RNServicio.vb" />
+    <Compile Include="RNSistema.vb" />
+    <Compile Include="RNTipoDocumento.vb" />
+    <Compile Include="RNTraslado.vb" />
+    <Compile Include="RNTurno.vb" />
+    <Compile Include="RNUbicacionGeografica.vb" />
+    <Compile Include="RNUnidad.vb" />
+    <Compile Include="RNUsuario.vb" />
+    <Compile Include="RNVirtud.vb" />
+    <Compile Include="RNVoucher.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.vbproj">
+      <Project>{325E0C52-BB48-47DB-8A58-98CC12EEBBB8}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

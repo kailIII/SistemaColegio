@@ -1,0 +1,431 @@
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+D:\Colegio 2013-05-22\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+D:\Colegio 2013-05-24\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+D:\Proyectos\Colegio\Colegio\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+D:\Colegio 2013-05-30\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\office.dll
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\office.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+K:\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoCumpleanios.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoPadres.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\Directorio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnosAnio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\DatosContactoAlumnos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\EstadisticaMatriculados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas\ListadoMadres.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\PersonalDirectivo.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarPadreAnio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosPorPadre.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoAlumnosCumpleanios.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMenor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoPadresHijoMayor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmDirectorio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmAlumnosSeccion.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmBuscarAlumnoAnio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmEstadisticaMatricula.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmInformacion_Apellidos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMayor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmListadoMadresHijoMenor.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmModificarClave.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPadresPorTrabajo.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\PersonalDirectivo\obj\Debug\PersonalDirectivo.pdb

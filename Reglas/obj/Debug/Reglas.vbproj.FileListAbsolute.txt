@@ -1,0 +1,97 @@
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Reglas.dll.config
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Reglas\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Reglas\obj\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Reglas.dll.config
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Reglas\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Reglas.dll.config
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Reglas\obj\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Reglas.dll.config
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Reglas\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Reglas\obj\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.dll.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.dll.config
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.pdb
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.dll
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.pdb
+K:\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.xml
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.dll
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.xml
+K:\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.dll.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Colegio.Reglas.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Reglas\obj\Debug\Reglas.pdb

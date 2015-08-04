@@ -1,0 +1,494 @@
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\agregar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\check_48.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\eliminar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\email.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\imprimir.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\kedit.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\korganizer.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\ksirc.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\moneda.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\pagar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\stock_print-preview.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\ver1.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Imagenes\ver2.gif
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\Liquidacion.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Administracion.exe.config
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Administracion.exe
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Administracion.pdb
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Administracion.xml
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-22\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmVisor.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+D:\Colegio 2013-05-22\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Administracion.exe.config
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\agregar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\check_48.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\eliminar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\email.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\imprimir.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\kedit.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\korganizer.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\ksirc.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\moneda.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\pagar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\stock_print-preview.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\ver1.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Imagenes\ver2.gif
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\Liquidacion.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Administracion.exe
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Administracion.pdb
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Administracion.xml
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-24\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmVisor.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-24\Colegio\Administracion\obj\x86\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Administracion.exe.config
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\ResGen.read.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\obj\x86\Debug\ResGen.write.1.tlog
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\agregar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\aula.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Buscar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Cancelar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Cerrar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\check_48.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\docente.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Editar.jpg
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\eliminar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\email.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\error.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\excel.bmp
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\exito.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Guardar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\imprimir.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\kedit.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\korganizer.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\ksirc.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\moneda.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\nuevo.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\padres.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\pagar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Salir.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\Seleccionar.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\stock_print-preview.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\user.png
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\ver1.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Imagenes\ver2.gif
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\Liquidacion.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Administracion.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Administracion.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Administracion.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Entidades.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas.exe
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Reglas.dll
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Entidades.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Entidades.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Plantillas.xml
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Reglas.pdb
+D:\Proyectos\Colegio\Colegio\Colegio\Administracion\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\agregar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\aula.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Buscar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Cancelar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Cerrar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\check_48.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\docente.jpg
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Editar.jpg
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\eliminar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\email.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\error.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\excel.bmp
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\exito.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Guardar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\imprimir.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\kcmfontinst.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\kedit.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\korganizer.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\ksirc.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\moneda.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\nuevo.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\padres.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\pagar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Salir.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\Seleccionar.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\stock_print-preview.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\user.png
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\ver1.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Imagenes\ver2.gif
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ConsolidadoPagos.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\Liquidacion.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ResumenPagos.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas\ResumenBeneficios.xls
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Administracion.exe.config
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Administracion.exe
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Administracion.pdb
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Administracion.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Entidades.dll
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas.exe
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Reglas.dll
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Entidades.pdb
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Entidades.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas.pdb
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Plantillas.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Reglas.pdb
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Reglas.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\ResGen.read.1.tlog
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\ResGen.write.1.tlog
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+D:\Colegio 2013-05-30\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\agregar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\aula.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Buscar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\check_48.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\docente.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\eliminar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\email.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\error.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\excel.bmp
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\exito.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Guardar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\imprimir.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\kcmfontinst.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\kedit.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\korganizer.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\ksirc.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\moneda.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\nuevo.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\padres.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\pagar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Salir.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\stock_print-preview.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\user.png
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\ver1.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\ver2.gif
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ConsolidadoPagos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\Liquidacion.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ResumenPagos.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ResumenBeneficios.xls
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Entidades.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Reglas.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\office.dll
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Entidades.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Entidades.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Reglas.pdb
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Reglas.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\office.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.vbprojResolveAssemblyReference.cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.vbproj.GenerateResource.Cache
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+C:\Users\tanin\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\ResGen.read.1.tlog
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\ResGen.write.1.tlog
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+K:\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\agregar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\aula.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Buscar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Cancelar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Cerrar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\check_48.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\docente.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Editar.jpg
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\eliminar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\email.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\error.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\excel.bmp
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\exito.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Guardar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\imprimir.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\kcmfontinst.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\kedit.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\korganizer.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\ksirc.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\moneda.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\nuevo.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\padres.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\pagar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Salir.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\Seleccionar.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\stock_print-preview.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\user.png
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\ver1.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Imagenes\ver2.gif
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ConsolidadoPagos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\Liquidacion.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosBeneficiados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosMatriculados.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoAlumnosPendientesPago.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosCuenta.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ListadoPagosPorServicio.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ResumenPagos.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas\ResumenBeneficios.xls
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Administracion.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Entidades.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Reglas.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\log4net.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\office.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Entidades.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Entidades.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Plantillas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Reglas.pdb
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Reglas.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\bin\Debug\office.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBeneficioResumenCantidad.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmBuscarPersona.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmConsolidadoPagos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmEstadoCuenta.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmIdentificar.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmInformacionAlumno.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmLiquidacionDia.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosBeneficiados.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoAlumnosPendientesPago.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmListadoPagosBanco.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmMantenimientoDocumentos.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmModificarClave.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPeriodoActual.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmPrincipal.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.frmReportePagosServicio.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Colegio.Administracion.Resources.resources
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.xml
+C:\Users\tania\Desktop\Colegio 2013-05-31\Colegio\Administracion\obj\x86\Debug\Administracion.pdb
